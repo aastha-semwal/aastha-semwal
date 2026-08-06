@@ -24,28 +24,18 @@
 ---
 
 ## 🛠️ Tech Stack
+### 💻 Languages & Tools
 
-### Languages
-- Verilog HDL
-- C
-- Python (Basics)
+![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 
-### Tools
-- VS Code
-- Git
-- GitHub
-- GTKWave
-- Icarus Verilog
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-008080?style=for-the-badge)
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-4B0082?style=for-the-badge)
 
-### Hardware
-- Digital Electronics
-- UART
-- SPI
-- I²C
-- FIFO
-- FSM Design
-
----
 
 ## 🚀 Current Learning Journey
 
