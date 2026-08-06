@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi there 👋, I'm Aastha Semwal
 
-<!--
-**aastha-semwal/aastha-semwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Electronics & Communication Engineering (ECE)
+- 💻 Passionate about RTL Design & Digital Electronics
+- 🌱 Currently learning Verilog HDL and FPGA Design
+- 🎯 Goal: Become an RTL Design Engineer
+- 📚 Preparing for GATE 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Verilog HDL
+- C
+- Python (Basics)
+
+### Tools
+- VS Code
+- Git
+- GitHub
+- GTKWave
+- Icarus Verilog
+
+### Hardware
+- Digital Electronics
+- UART
+- SPI
+- I²C
+- FIFO
+- FSM Design
+
+---
+
+## 🚀 Current Learning Journey
+
+✔ Logic Gates
+
+✔ Multiplexers
+
+✔ ALU
+
+✔ Flip-Flops
+
+✔ Registers
+
+✔ Counters
+
+✔ UART
+
+✔ SPI
+
+✔ FIFO
+
+✔ I²C Master Controller
+
+---
+
+## 📂 Featured Repository
+
+⭐ RTL-Learning
+
+Daily Verilog RTL Design Projects
+
+---
+
+## 🎯 2026 Goals
+
+- Complete 50+ RTL Projects
+- Learn FPGA Design
+- Build SoC-Level Projects
+- Crack GATE 2027
+- Prepare for RTL Design Interviews
+
+---
+
+Thanks for visiting my profile! 😊
