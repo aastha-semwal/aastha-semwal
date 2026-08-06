@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Aastha Semwal Banner" width="100%">
+</p>
+
 # Hi there 👋, I'm Aastha Semwal
 
 ## 🎓 About Me
