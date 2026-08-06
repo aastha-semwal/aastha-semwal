@@ -9,19 +9,25 @@
 # Hi there 👋, I'm Aastha Semwal
 
 ## 🎓 About Me
-## 📈 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aastha-semwal&theme=tokyonight" />
-</p>
-
 - 🎓 B.Tech Electronics & Communication Engineering (ECE)
 - 💻 Passionate about RTL Design & Digital Electronics
 - 🌱 Currently learning Verilog HDL and FPGA Design
 - 🎯 Goal: Become an RTL Design Engineer
 - 📚 Preparing for GATE 2027
 
----
+## 📈 RTL Learning Progress
+
+✅ 27 RTL Projects Completed
+
+🔄 Current Project: Day 28 – APB Master Controller
+
+🎯 Target: 50+ RTL Projects
+
+📚 Focus Areas:
+- Verilog HDL
+- FSM Design
+- Communication Protocols
+- FPGA Design
 
 ## 🛠️ Tech Stack
 ### 💻 Languages & Tools
