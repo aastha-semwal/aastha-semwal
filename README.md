@@ -15,19 +15,39 @@
 - 🎯 Goal: Become an RTL Design Engineer
 - 📚 Preparing for GATE 2027
 
-## 📈 RTL Learning Progress
+## 🚀 RTL Learning Progress
 
-✅ 27 RTL Projects Completed
+### 📅 Journey Timeline
 
-🔄 Current Project: Day 28 – APB Master Controller
+- 🎯 Started RTL Design Journey: **July 2026**
+- ✅ Completed Projects: **27**
+- 🔄 Current Project: **Day 28 – APB Master Controller**
+- 🎯 Target: **50+ Professional RTL Projects**
 
-🎯 Target: 50+ RTL Projects
+---
 
-📚 Focus Areas:
-- Verilog HDL
-- FSM Design
-- Communication Protocols
-- FPGA Design
+### 📚 Technologies Covered
+
+- ✅ Verilog HDL
+- ✅ Combinational Circuits
+- ✅ Sequential Circuits
+- ✅ Finite State Machines (FSM)
+- ✅ UART
+- ✅ SPI
+- ✅ FIFO
+- ✅ UART + FIFO Integration
+- ✅ I²C Master Controller
+
+---
+
+### 🎯 Upcoming
+
+- 🔜 APB Master Controller
+- 🔜 RAM Controller
+- 🔜 AXI Lite Interface
+- 🔜 SDRAM Controller
+- 🔜 DMA Controller
+- 🔜 RISC-V Processor
 
 ## 🛠️ Tech Stack
 ### 💻 Languages & Tools
@@ -41,31 +61,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-008080?style=for-the-badge)
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-4B0082?style=for-the-badge)
-
-
-## 🚀 Current Learning Journey
-
-✔ Logic Gates
-
-✔ Multiplexers
-
-✔ ALU
-
-✔ Flip-Flops
-
-✔ Registers
-
-✔ Counters
-
-✔ UART
-
-✔ SPI
-
-✔ FIFO
-
-✔ I²C Master Controller
-
----
 
 ## 📂 Featured Repository
 
