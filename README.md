@@ -1,10 +1,19 @@
 <p align="center">
   <img src="./banner.png.png" alt="Aastha Semwal Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aastha-semwal&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-semwal&layout=compact&theme=tokyonight" height="170">
+</p>
 
 # Hi there 👋, I'm Aastha Semwal
 
 ## 🎓 About Me
+## 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aastha-semwal&theme=tokyonight" />
+</p>
 
 - 🎓 B.Tech Electronics & Communication Engineering (ECE)
 - 💻 Passionate about RTL Design & Digital Electronics
